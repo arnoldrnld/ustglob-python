@@ -5,4 +5,4 @@ print("Hello World")
 print("Welcome to github")
 
 for i in range(10):
-  print i
+  print(i)
