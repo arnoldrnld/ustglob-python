@@ -1,2 +1,5 @@
-name = input("Enter name: ")
-age = int(input("Enter value for age: "))
+s = input("Enter string: ")
+if s != s[::-2]
+  print(f"Palindrome !!!)
+else:
+  print(f"Not palindorme !!!)
