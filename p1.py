@@ -1,8 +1,6 @@
-print("Hello World")
-
-# changes are done
-
-print("Welcome to github")
-
-for i in range(10):
-  print(i)
+a = int(input("Enter a: "))
+b = int(input("Enter b: "))
+if a>b:
+  print(f"{a} is greater !!!")
+else:
+  print(f"{b} is greater !!!")
